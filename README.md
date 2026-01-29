@@ -1,4 +1,4 @@
-# Agentic Network Slice Negotiation Framework
+# Agentic Network Slice Negotiation Framework with Anchoring Bias Mitigation
 
 ## Overview
 
